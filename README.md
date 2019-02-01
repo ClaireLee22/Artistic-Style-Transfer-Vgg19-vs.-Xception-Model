@@ -1,1 +1,1 @@
-# Style-Transfer-Vgg19-vs.-Xception-model
+# Artistic-Style-Transfer-Vgg19-vs.-Xception-model
