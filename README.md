@@ -21,9 +21,9 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
 ### Project Results
 - Project Output
 
-<img src='gen_img/oil_output.jpg'>
-<img src='gen_img/doodle_output.jpg'>
-<img src='gen_img/sketch_output.jpg'>
+ <img src='gen_img/oil_output.jpg'>
+ <img src='gen_img/doodle_output.jpg'>
+ <img src='gen_img/sketch_output.jpg'>
 
 
 ## Getting Started
