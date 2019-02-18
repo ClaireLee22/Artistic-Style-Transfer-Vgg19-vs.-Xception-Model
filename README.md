@@ -15,7 +15,8 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
   - style loss
   - total variance loss
 - Run the model
-- Visualize generated image
+- Deprocess the image
+- Visualize the generated image
 
 ### Project Results
 
