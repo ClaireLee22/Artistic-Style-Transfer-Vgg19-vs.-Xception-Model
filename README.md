@@ -6,10 +6,15 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
 ### Project Procedure
 - Preprocess the image to a 4D tensor
 - Build the model
-  - Create input tensor
+  - Create a input tensor with shape (3, height, width, channels or filters)
   - Load the pre-trained model
     - Vgg19
     - Xception
+- Calculate loss
+  - content loss
+  - style loss
+  - total variance loss
+    
 
 ### Project Results
 
