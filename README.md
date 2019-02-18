@@ -18,6 +18,10 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
 - Deprocess the image
 - Visualize the generated image
 
+if want to keep training
+ - reload the saved weights
+ - train the model
+
 ### Project Results
 - Project Output
 
