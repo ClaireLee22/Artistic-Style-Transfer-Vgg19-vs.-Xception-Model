@@ -19,8 +19,8 @@ Use Vgg19 and Xception pre-trained network to do artistic style transfer which o
 - Visualize the generated image
 
 (Optional)If want to keep training,
- - reload the saved weights
- - train the model
+ - Reload the saved weights
+ - Train the model
 
 ### Project Results
 - Created high-quality artistic images either using Vgg19 or Xception pre-trained network.
