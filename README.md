@@ -1,7 +1,7 @@
 # Artistic-Style-Transfer-Vgg19-vs.-Xception-model
 ## Project Overview
 ### Project Description
-Use Vgg19 and Xception pre-trained model to do artistic style transfer which obtain a representation of the style of an input image and apply the style to another image while keeping the original image content recognizable.
+Use Vgg19 and Xception pre-trained network to do artistic style transfer which obtain a representation of the style of an input image and apply the style to another image while keeping the original image content recognizable.
 
 ### Project Procedure
 - Preprocess the image to a 4D tensor
@@ -23,9 +23,9 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
  - train the model
 
 ### Project Results
-- Created high-quality artistic images either using Vgg19 or Xception pretrained model.
-- Generated images in richer and saturated color by Vgg19 model.
-- Made the generated image look vintage by using Xception model. 
+- Created high-quality artistic images either using Vgg19 or Xception pre-trained network.
+- Generated images in richer and saturated color by Vgg19 network.
+- Made the generated image look vintage by using Xception network. 
 - Project Output
 
  <img src='gen_img/oil_output.jpg' width='600px'>
