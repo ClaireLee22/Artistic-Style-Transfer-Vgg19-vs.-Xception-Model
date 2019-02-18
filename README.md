@@ -18,11 +18,14 @@ Use Vgg19 and Xception pre-trained model to do artistic style transfer which obt
 - Deprocess the image
 - Visualize the generated image
 
-if want to keep training
+(Optional)If want to keep training,
  - reload the saved weights
  - train the model
 
 ### Project Results
+- Created high-quality artistic images either using Vgg19 or Xception pretrained model.
+- Generated images in richer and saturated color by Vgg19 model.
+- Made the generated image look vintage by using Xception model. 
 - Project Output
 
  <img src='gen_img/oil_output.jpg' width='600px'>
