@@ -4,7 +4,12 @@
 Use Vgg19 and Xception pre-trained model to do artistic style transfer which obtain a representation of the style of an input image and apply the style to another image while keeping the original image content recognizable.
 
 ### Project Procedure
-- 
+- Preprocess the image to a 4D tensor
+- Build the model
+  - Create input tensor
+  - Load the pre-trained model
+    - Vgg19
+    - Xception
 
 ### Project Results
 
