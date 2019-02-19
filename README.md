@@ -47,11 +47,11 @@ This project requires **Python 3.6** and the following Python libraries installe
 In a terminal or command window, run one of the following commands:
 
 ```bash
-ipython notebook Your_first_neural_network.ipynb
+ipython notebook Artistic style transfer-Vgg19.ipynb
 ```  
 or
 ```bash
-jupyter notebook Your_first_neural_network.ipynb
+jupyter notebook Artistic style transfer-Vgg19.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
